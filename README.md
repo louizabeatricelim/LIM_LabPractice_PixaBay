@@ -3,9 +3,9 @@
 ## Challenge 1: Rocket Launch (Video)
 Build a request using these parameters, then document the request and the response.
 
-###Parameters:###
+### Parameters:
 
-####Search Term: Rocket Launch
+#### Search Term: Rocket Launch
 Data Type: Video
 Category: Science
 Editor's Choice: Yes
