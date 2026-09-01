@@ -94,18 +94,16 @@ List the query parameters used, one by one, with their values.
 ```text
 key = YOUR_API_KEY
 q = Forest
-category = backgrounds
+category = background
 editors_choice = true
 order = latest
 per_page = 3
 ```
 
-> Note: Pixabay's category slug for Background is `backgrounds`.
-
 #### 2. API Request URL
 
 ```text
-https://pixabay.com/api/videos/?key=YOUR_API_KEY&q=Forest&category=backgrounds&editors_choice=true&order=latest&per_page=3
+https://pixabay.com/api/videos/?key=YOUR_API_KEY&q=Forest&category=background&editors_choice=true&order=latest&per_page=3
 ```
 
 #### 3. API Response
