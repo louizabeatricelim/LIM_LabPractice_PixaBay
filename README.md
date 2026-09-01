@@ -1,4 +1,4 @@
-# LIM_LabPractice_PixaBay
+<img width="1253" height="290" alt="image" src="https://github.com/user-attachments/assets/ec0a5075-a26c-48c3-939b-65b53c2dd725" /># LIM_LabPractice_PixaBay
 
 ## API Key
 
@@ -110,7 +110,7 @@ https://pixabay.com/api/videos/?key=YOUR_API_KEY&q=Forest&category=background&ed
 
 The response information returned by the API:
 
-<img width="1919" height="856" alt="Pixabay API Response" src="https://github.com/user-attachments/assets/7ffc31d5-2d13-407a-8056-faf0c17556fb" />
+<img width="1253" height="290" alt="Pixabay API Response" src="https://github.com/user-attachments/assets/42917ad4-a835-4413-8459-38151e8569fb" />
 
 ---
 
