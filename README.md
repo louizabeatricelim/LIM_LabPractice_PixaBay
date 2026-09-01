@@ -6,7 +6,7 @@ Copy your API key from your Pixabay account page. You will use this key in every
 
 <img width="641" height="119" alt="Pixabay API Key" src="https://github.com/user-attachments/assets/951937f8-d40b-42c1-b9ee-fed3a7b8bcce" />
 
-> API Key: '57360554-9f0dff5cabdf74fc41952eb8d'
+> API Key: `57360554-9f0dff5cabdf74fc41952eb8d`
 
 ---
 
