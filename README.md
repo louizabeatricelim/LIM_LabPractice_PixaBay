@@ -28,5 +28,5 @@ Results Per Page: 3
 What to submit:
 
 #### The full API request URL you used.
-The response information the API returned.
+The response information the API returned. - https://pixabay.com/api/videos/?key=57360554-9f0dff5cabdf74fc41952eb8d &q=Basketball&category=sports&order=latest&per_page=3
 <img width="1917" height="488" alt="image" src="https://github.com/user-attachments/assets/2a080b28-b0f1-4ef8-8926-844b9dc3d073" />
