@@ -1,4 +1,4 @@
-<img width="1253" height="290" alt="image" src="https://github.com/user-attachments/assets/ec0a5075-a26c-48c3-939b-65b53c2dd725" /># LIM_LabPractice_PixaBay
+# LIM_LabPractice_PixaBay
 
 ## API Key
 
