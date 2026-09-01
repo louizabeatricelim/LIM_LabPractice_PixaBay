@@ -17,3 +17,16 @@ What to submit:
 The response information the API returned (a screenshot or a copy of the JSON works).####
 <img width="1905" height="584" alt="image" src="https://github.com/user-attachments/assets/3aef21eb-d4d3-453f-b039-f6c8f2227279" />
 
+## Challenge 2: Basketball (Video)
+### Parameters:
+
+#### Search Term: Basketball
+Data Type: Video
+Category: Sports
+Order: Latest
+Results Per Page: 3
+What to submit:
+
+#### The full API request URL you used.
+The response information the API returned.
+<img width="1917" height="488" alt="image" src="https://github.com/user-attachments/assets/2a080b28-b0f1-4ef8-8926-844b9dc3d073" />
